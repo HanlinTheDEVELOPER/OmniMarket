@@ -1,6 +1,6 @@
 import { Schema, model } from "mongoose";
 
-const UserSchema = new Schema(
+const ShopKeeperSchema = new Schema(
   {
     name: {
       type: String,
@@ -10,11 +10,6 @@ const UserSchema = new Schema(
       type: String,
       required: true,
       unique: true,
-    },
-    role: {
-      type: String,
-      enum: ["customer", "shopkeeper", "admin"],
-      default: "customer",
     },
     password: {
       type: String,
@@ -29,6 +24,6 @@ const UserSchema = new Schema(
   }
 );
 
-const User = model("User", UserSchema);
+const ShopKeeper = model("ShopKeeper", ShopKeeperSchema);
 
-export default User;
+export default ShopKeeper;
