@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" modified="2023-12-29T14:05:21.477Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="siqJ1sjO-tSeX5NqzIGq" version="22.1.16" type="device">
+  <diagram name="Page-1" id="ty5XLWtkpsDCVhF69zWN">
+    <mxGraphModel dx="1257" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1fx2b1B4jcI9L1rPK4dK-1" value="&lt;h1&gt;Backoffice Portal&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="40" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1fx2b1B4jcI9L1rPK4dK-2" value="Shopkeeper" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="240" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1fx2b1B4jcI9L1rPK4dK-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="280" as="sourcePoint" />
+            <mxPoint x="360" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1fx2b1B4jcI9L1rPK4dK-6" value="Register" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="250" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1fx2b1B4jcI9L1rPK4dK-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="200" width="510" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1fx2b1B4jcI9L1rPK4dK-8" value="Manipulate Products" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="200" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1fx2b1B4jcI9L1rPK4dK-9" value="When a shopkeeper login, he&#39;ll get a shop on this site automatically Shopkeeper can create products.." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="50" width="390" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="1fx2b1B4jcI9L1rPK4dK-10" value="Shopkeeper Story" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="50" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1fx2b1B4jcI9L1rPK4dK-12" value="View Own Products" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="250" width="140" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
